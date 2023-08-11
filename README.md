@@ -1,4 +1,4 @@
-Frontend Repo: https://github.com/J0hns0n-Wang/anime-frontend
+Frontend Repo: https://github.com/harveyj123/anime-frontend
 
 # anime-backend
 
